@@ -1,2 +1,0 @@
-# sysroot-llvm
-sysroot LLVM
